@@ -20,6 +20,7 @@
   />
 </p>
 
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
@@ -29,9 +30,9 @@
 </p>
 
 - 💬 Ask me about **JavaScript | React | Next.js | Node JS | React Native |
-Full-Stack Development | Website Development | Mobile App Development** - 📫 How
-to reach me **https://t.me/DavitKhachatryan** - 📄 Know about my experiences
-[https://drive.google.com/file/d/1znVzN99hKUsDoEsJSfBv-wRumCOlQS4F/view?usp=sharing](https://drive.google.com/file/d/1znVzN99hKUsDoEsJSfBv-wRumCOlQS4F/view?usp=sharing)
+Full-Stack Development | Website Development | Mobile App Development**
+ - 📫 How to reach me **https://t.me/DavitKhachatryan** 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1znVzN99hKUsDoEsJSfBv-wRumCOlQS4F/view?usp=sharing](https://drive.google.com/file/d/1znVzN99hKUsDoEsJSfBv-wRumCOlQS4F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
