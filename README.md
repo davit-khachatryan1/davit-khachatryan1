@@ -20,7 +20,7 @@
   />
 </p>
 
-
+<h3 align="left">Statistics:</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
@@ -30,9 +30,9 @@
 </p>
 
 - 💬 Ask me about **JavaScript | React | Next.js | Node JS | React Native |
-Full-Stack Development | Website Development | Mobile App Development**
- - 📫 How to reach me **https://t.me/DavitKhachatryan** 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1znVzN99hKUsDoEsJSfBv-wRumCOlQS4F/view?usp=sharing](https://drive.google.com/file/d/1znVzN99hKUsDoEsJSfBv-wRumCOlQS4F/view?usp=sharing)
+Full-Stack Development | Website Development | Mobile App Development** - 📫 How
+to reach me **https://t.me/DavitKhachatryan** - 📄 Know about my experiences
+[https://drive.google.com/file/d/1znVzN99hKUsDoEsJSfBv-wRumCOlQS4F/view?usp=sharing](https://drive.google.com/file/d/1znVzN99hKUsDoEsJSfBv-wRumCOlQS4F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,7 +47,7 @@ Full-Stack Development | Website Development | Mobile App Development**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; gap: 10px;">
+<p align="left" style="display: flex; gap: 10px; margin-top: 10px;">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img
       src="https://docs.amplify.aws/assets/logo-dark.svg"
@@ -55,14 +55,14 @@ Full-Stack Development | Website Development | Mobile App Development**
       width="40"
       height="40"
     />
-  </a>
+  </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
       alt="angular"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
@@ -71,14 +71,14 @@ Full-Stack Development | Website Development | Mobile App Development**
       width="40"
       height="40"
     />
-  </a>
+  </a> 
   <a href="https://backbonejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg"
       alt="backbonejs"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
@@ -86,7 +86,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="bootstrap"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
     <img
@@ -94,7 +94,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="canvasjs"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img
@@ -102,7 +102,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="chartjs"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
@@ -110,7 +110,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="css3"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://d3js.org/" target="_blank" rel="noreferrer">
     <img
@@ -118,7 +118,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="d3js"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
@@ -126,7 +126,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="docker"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://emberjs.com/" target="_blank" rel="noreferrer">
     <img
@@ -134,7 +134,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="ember"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
@@ -142,7 +142,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="express"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
@@ -150,7 +150,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="figma"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
@@ -158,7 +158,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="firebase"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
@@ -166,7 +166,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="graphql"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
@@ -174,7 +174,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="heroku"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -182,7 +182,7 @@ Full-Stack Development | Website Development | Mobile App Development**
       alt="html5"
       width="40"
       height="40"
-    />
+    /> 
   </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
