@@ -28,10 +28,6 @@
   /></a>
 </p>
 
-<br/>
-
-<br/>
-
 - 💬 Ask me about **JavaScript | React | Next.js | Node JS | React Native |
 Full-Stack Development | Website Development | Mobile App Development** - 📫 How
 to reach me **https://t.me/DavitKhachatryan** - 📄 Know about my experiences
