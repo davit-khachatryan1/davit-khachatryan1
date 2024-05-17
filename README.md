@@ -14,7 +14,7 @@
 <a href = "mailto:khachatryandavit55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/davit_66766" target="blank"><img align="center" src="https://img.freepik.com/premium-psd/telegram-3d-icon-social-media_437242-1903.jpg?w=826" alt="davit_66766" height="30" width="40" /></a><a href="https://t.me/DavitKhachatryan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/telegram.svg" alt="DavitKhachatryan" height="30" width="40" /></a></p>
+<a href="https://discord.gg/davit_66766" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="davit_66766" height="30" width="40" /></a><a href="https://t.me/DavitKhachatryan" target="_blank"><img align="center" src="https://img.freepik.com/premium-psd/telegram-3d-icon-social-media_437242-1903.jpg?w=826" alt="DavitKhachatryan" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
