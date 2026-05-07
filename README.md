@@ -25,7 +25,7 @@
   <a href="https://github.com/davit-khachatryan1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-davit--khachatryan1-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://drive.google.com/file/d/1znVzN99hKUsDoEsJSfBv-wRumCOlQS4F/view?usp=sharing" target="_blank">
+  <a href="https://flowcv.com/resume/b9e65gqaw3" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Open-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </p>
